@@ -1,5 +1,5 @@
 ## George Hudson
-Github Repo:
+Github Repo: https://github.com/Egogre/robodoku
 
 Assessed By:
 
