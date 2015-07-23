@@ -59,7 +59,7 @@
 
 ### George Hudson
 
-* GitHub URL:
+* GitHub URL: https://github.com/Egogre/enigma
 
 #### Notes
 
